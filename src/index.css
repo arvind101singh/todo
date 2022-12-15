@@ -1,0 +1,14 @@
+html{
+    background-color: darkslategray;
+}
+.container-fluid{
+    background-color: darkslategray ;
+}
+input[type="text"]{
+    background: transparent;
+}
+input[type="text"]:focus{
+    background: transparent;
+    color: white;
+}
+/* likhne pr agar white chahiye to focus disable karna padega */
